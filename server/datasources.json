@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "capture-store": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb://developer:developer2@ds121262.mlab.com:21262/capture-store",
+    "database": "",
+    "password": "",
+    "name": "capture-store",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
